@@ -1,4 +1,4 @@
-﻿# DrMarmitas
+# DrMarmitas
 Projeto proposto pela Faculdade: 1 - Ao carregar a página principal do site, é necessário que apresente um cabeçalho e um rodapé personalizado para a Dona Rita, lembre-se de colocar sua assinatura no rodapé.
 
 2 – Ainda na página inicial é necessário que liste todas as marmitas que Dona Rita produz utilizando uma estrutura de repetição. Para este caso, é necessário que os dados: nome da marmita, tamanho, preço, imagem e ingredientes, estejam em um array multidimensional.
@@ -7,15 +7,15 @@ Projeto proposto pela Faculdade: 1 - Ao carregar a página principal do site, é
 
 Utilitarios usados para o desenvolvimento:
 
--Xampp
--Figma (Criação mockup)
--IDE : vscode
+- Xampp
+- Figma (Criação mockup)
+- IDE : vscode
 
 Auxilio:
--Color picker
--Behance
--Pexels
--Bootstrap Icons
+- Color picker
+- Behance
+- Pexels
+- Bootstrap Icons
 
 Como rodar o projeto 
 
