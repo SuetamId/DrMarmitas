@@ -7,14 +7,15 @@ Projeto proposto pela Faculdade: 1 - Ao carregar a página principal do site, é
 
 Utilitarios usados para o desenvolvimento:
 
-Xampp
-Figma (Criação mockup)
-IDE : vscode
-Auxilio
+-Xampp
+-Figma (Criação mockup)
+-IDE : vscode
 
-Color picker
-Behance
-Pexels
+Auxilio:
+-Color picker
+-Behance
+-Pexels
+-Bootstrap Icons
 
 Como rodar o projeto 
 
